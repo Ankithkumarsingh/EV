@@ -1,0 +1,1 @@
+Developed a contactless EV charging system using Arduino nano, sensors, and relays to automate vehicle detection and charging. The system improved safety, efficiency, and user convenience by eliminating manual intervention and displaying real-time charging status.
